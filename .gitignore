@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Environment
+.env
+
+# uv
+.venv/
+
+# Python
+__pycache__/
+
+# Datasets
+datasets/swebench_verified/repos/
+
+# SWE-Bench
+logs/
+runs/
+runs2/
